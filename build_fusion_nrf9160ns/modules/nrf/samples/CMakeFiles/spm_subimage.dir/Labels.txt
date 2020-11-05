@@ -1,0 +1,13 @@
+# Target labels
+ spm_subimage
+# Source files and their labels
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/CMakeFiles/spm_subimage
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/CMakeFiles/spm_subimage.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule
+C:/Users/bard/Documents/serial_fusion_modem/build_fusion_nrf9160ns/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule
